@@ -1,1 +1,1 @@
-console.log("hola")
+import School from "./class/school-class,js"
